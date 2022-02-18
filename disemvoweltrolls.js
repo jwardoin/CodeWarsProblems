@@ -25,3 +25,5 @@ function disemvowel(str) {
     }
     return newString
 }
+
+// const disemvowel = str => str.replace(/aeiou/gi, '')
