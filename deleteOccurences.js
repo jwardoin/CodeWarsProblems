@@ -11,7 +11,7 @@
 
 function deleteNth(arr,n){
     const newArray = []
-    arr.reduce((a,b)=>{
+    arr.reduce((a,b) => {
       if(!a[b]) {
         a[b] = 0
       }
