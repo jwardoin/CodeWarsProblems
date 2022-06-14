@@ -13,14 +13,9 @@ Everyday, I complete a CodeWars challenge!
 
 There may not always be one solution - every challenge is a chance for me to solve it in the best way that I can, and then learn better ways when it comes to readability and performance.
 
-
-<!-- ## Examples:
+ ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**1:** link
+**Cloud Resume Challenge:** https://github.com/jwardoin/cloud-resume
 
-**2:** link
-
-**3:** link -->
-
-
+**MAA-Invoicer:** https://github.com/jwardoin/maa-invoicer
