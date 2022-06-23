@@ -31,16 +31,5 @@ function findOdd(A) {
 // what I learned from others' solutions
 
 function findOdd(A) {
-    let oddNumber = 0
-    const counted = A.reduce((a,b)=> a[b] ? a[b]++ : a[b] = 1, {}) // learned how to use a ternary on my favorite reduce trick
-    Object.entries(counted).forEach(([item, value]) => {
-      if(value % 2){
-        oddNumber = Number(item)
-      }
-    })
-    return oddNumber
-}
-
-function findOdd(A) {
     return A.find(item => A.filter(number => number === item).length % 2) // Not very performant, but I think it's easier to read than the above
 }
