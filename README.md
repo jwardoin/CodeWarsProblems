@@ -1,6 +1,6 @@
 # CodeWars Challenges: <a href="https://www.codewars.com/users/jwardoin">Visit Here</a> 
 
-![codewars progress](https://photos.google.com/share/AF1QipMvWLsW1AAUHqlu4X-vFhvPdncmtaKD2HYPAxxeVfl7BP0js8Or4Bn2AKdIXc6rAg/photo/AF1QipPDJvsiWV1TykHpt0JQkfwrgwsPyB2bjJqEZYEE?key=X3VBaFpDNDVMTXBqVWdNSEhnQWNMQ2xhTFUyMTZB)
+![codewars progress](https://lh3.googleusercontent.com/pw/AM-JKLXB3lh8a43To6NDXTL6NznJqLFAsSXqpmq-m_SxcnwxFeMLXMAmr5sfKxcboAjdd6IL3HD2aJQweTZO16hbOXW6yEftIymra06SwFqogqXfVwf-3azgF9g1yvtM4yeLhTJjTUY5spd2shxnnGZy7JQc=w913-h585-no?authuser=0)
 A repository filled with codewars challenges I have completed.
 
 ## How It's Made:
